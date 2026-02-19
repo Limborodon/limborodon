@@ -1,5 +1,10 @@
-## Hi there 👋
+<h2>Software Development Projects:</h2>
 
+- <b>Information Architecture & Data Management</b>
+  - [School Database Project](https://github.com/Limborodon/KTH_IV1351) - <i>Relational schema design and SQL implementation.</i>
+
+- <b>Embedded Systems</b>
+  - [Traffic Management System](https://github.com/Limborodon/IS1300) - <i>STM32 microcontroller programming with GPIO signaling.</i>
 <!--
 **Limborodon/limborodon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
