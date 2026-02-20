@@ -5,6 +5,9 @@
 
 - <b>Embedded Systems</b>
   - [Traffic Management System](https://github.com/Limborodon/IS1300) - <i>STM32 microcontroller programming with GPIO signaling.</i>
+
+  ### Contact Me
+- How to reach me: **linuswennergren0@email.com**
 <!--
 **Limborodon/limborodon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
