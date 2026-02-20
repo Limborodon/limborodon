@@ -1,24 +1,25 @@
-<h2>Software Development Projects:</h2>
+# Hi, I'm Linus!
 
-- <b>Information Architecture & Data Management</b>
-  - [School Database Project](https://github.com/Limborodon/KTH_IV1351) - <i>Relational schema design and SQL implementation.</i>
+I am a IT student at KTH focused on logical reasoning and building efficient systems.
 
-- <b>Embedded Systems</b>
-  - [Traffic Management System](https://github.com/Limborodon/IS1300) - <i>STM32 microcontroller programming with GPIO signaling.</i>
+### Tech Stack
 
-  ### Contact Me
-- How to reach me: **linuswennergren0@email.com**
-<!--
-**Limborodon/limborodon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages:** C, SQL (PostgreSQL), Python, Java
 
-Here are some ideas to get you started:
+**Tools:** Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+# Software Development Projects:
+
+### Data Management
+* [School Database Project](https://github.com/Limborodon/KTH_IV1351) – *Relational schema design and SQL implementation.*
+
+### Embedded Systems
+* [Traffic Management System](https://github.com/Limborodon/IS1300) – *STM32 microcontroller programming with GPIO signaling.*
+
+
+
+# Contact Me
+
+- **Email:** [linuswennergren0@email.com](mailto:linuswennergren0@email.com)
