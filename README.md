@@ -22,4 +22,4 @@ I am a IT student at KTH focused on logical reasoning and building efficient sys
 
 # Contact Me
 
-- **Email:** [linuswennergren0@email.com](mailto:linuswennergren0@email.com)
+- **Email:** [linuswennergren0@email.com](mailto:linuswennergren0@gmail.com)
